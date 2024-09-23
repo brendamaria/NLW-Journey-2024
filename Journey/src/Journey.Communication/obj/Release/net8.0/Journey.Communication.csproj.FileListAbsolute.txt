@@ -1,0 +1,11 @@
+C:\Users\Basis\Desktop\NLW Journey 2024\Journey\src\Journey.Communication\bin\Release\net8.0\Journey.Communication.deps.json
+C:\Users\Basis\Desktop\NLW Journey 2024\Journey\src\Journey.Communication\bin\Release\net8.0\Journey.Communication.dll
+C:\Users\Basis\Desktop\NLW Journey 2024\Journey\src\Journey.Communication\bin\Release\net8.0\Journey.Communication.pdb
+C:\Users\Basis\Desktop\NLW Journey 2024\Journey\src\Journey.Communication\obj\Release\net8.0\Journey.Communication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Basis\Desktop\NLW Journey 2024\Journey\src\Journey.Communication\obj\Release\net8.0\Journey.Communication.AssemblyInfoInputs.cache
+C:\Users\Basis\Desktop\NLW Journey 2024\Journey\src\Journey.Communication\obj\Release\net8.0\Journey.Communication.AssemblyInfo.cs
+C:\Users\Basis\Desktop\NLW Journey 2024\Journey\src\Journey.Communication\obj\Release\net8.0\Journey.Communication.csproj.CoreCompileInputs.cache
+C:\Users\Basis\Desktop\NLW Journey 2024\Journey\src\Journey.Communication\obj\Release\net8.0\Journey.Communication.dll
+C:\Users\Basis\Desktop\NLW Journey 2024\Journey\src\Journey.Communication\obj\Release\net8.0\refint\Journey.Communication.dll
+C:\Users\Basis\Desktop\NLW Journey 2024\Journey\src\Journey.Communication\obj\Release\net8.0\Journey.Communication.pdb
+C:\Users\Basis\Desktop\NLW Journey 2024\Journey\src\Journey.Communication\obj\Release\net8.0\ref\Journey.Communication.dll

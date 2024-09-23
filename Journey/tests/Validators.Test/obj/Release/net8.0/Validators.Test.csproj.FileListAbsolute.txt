@@ -1,0 +1,6 @@
+C:\Users\Basis\Desktop\NLW Journey 2024\Journey\tests\Validators.Test\bin\Release\net8.0\CoverletSourceRootsMapping_Validators.Test
+C:\Users\Basis\Desktop\NLW Journey 2024\Journey\tests\Validators.Test\obj\Release\net8.0\Validators.Test.csproj.AssemblyReference.cache
+C:\Users\Basis\Desktop\NLW Journey 2024\Journey\tests\Validators.Test\obj\Release\net8.0\Validators.Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Basis\Desktop\NLW Journey 2024\Journey\tests\Validators.Test\obj\Release\net8.0\Validators.Test.AssemblyInfoInputs.cache
+C:\Users\Basis\Desktop\NLW Journey 2024\Journey\tests\Validators.Test\obj\Release\net8.0\Validators.Test.AssemblyInfo.cs
+C:\Users\Basis\Desktop\NLW Journey 2024\Journey\tests\Validators.Test\obj\Release\net8.0\Validators.Test.csproj.CoreCompileInputs.cache

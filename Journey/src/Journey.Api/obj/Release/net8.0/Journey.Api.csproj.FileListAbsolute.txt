@@ -1,0 +1,6 @@
+C:\Users\Basis\Desktop\NLW Journey 2024\Journey\src\Journey.Api\obj\Release\net8.0\Journey.Api.csproj.AssemblyReference.cache
+C:\Users\Basis\Desktop\NLW Journey 2024\Journey\src\Journey.Api\obj\Release\net8.0\Journey.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Basis\Desktop\NLW Journey 2024\Journey\src\Journey.Api\obj\Release\net8.0\Journey.Api.AssemblyInfoInputs.cache
+C:\Users\Basis\Desktop\NLW Journey 2024\Journey\src\Journey.Api\obj\Release\net8.0\Journey.Api.AssemblyInfo.cs
+C:\Users\Basis\Desktop\NLW Journey 2024\Journey\src\Journey.Api\obj\Release\net8.0\Journey.Api.csproj.CoreCompileInputs.cache
+C:\Users\Basis\Desktop\NLW Journey 2024\Journey\src\Journey.Api\obj\Release\net8.0\Journey.Api.MvcApplicationPartsAssemblyInfo.cache
